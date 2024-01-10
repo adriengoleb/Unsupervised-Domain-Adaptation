@@ -6,4 +6,4 @@ The aim of this internship was to develop a method for unsupervised domain adapt
 
 Recent methods have drastically reduced the gap between adapted and supervised models, and in particular Transformers have proved to be excellent candidates for adaptation.
 
-The internship report in this repository summarises all the work carried out.
+The internship oral presentation in this repository summarises all the work carried out. Don't hesitate to contact me if you want more informations.
